@@ -17,4 +17,5 @@
 
 固件收取1%的开发费用。
 大客户/矿池合作：
-wechat: emptyset110
+
+微信(wechat): emptyset110
